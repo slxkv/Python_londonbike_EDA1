@@ -102,7 +102,8 @@ View my notebook for detailed steps here:
 
 ## 1. Distribution of Total Bike Rides by Season
 
-![Distribution of Total Bike Rides by Season](Visualisation_images\season_1.png)
+![Distribution of Total Bike Rides by Season](season_piechart.png)
+
 
 ### Insight 
 
