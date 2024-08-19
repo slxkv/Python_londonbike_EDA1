@@ -102,8 +102,7 @@ View my notebook for detailed steps here:
 
 ## 1. Distribution of Total Bike Rides by Season
 
-![Pie Chart for Sum of Bike Share each Season](Visualisation_images\season_1.png)
-
+![Distribution of Total Bike Rides by Season](Visualisation_images\season_1.png)
 ### Insight 
 
 - Summer: Accounts for the highest proportion of bike rides at 32.3%.
