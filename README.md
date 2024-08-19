@@ -103,6 +103,7 @@ View my notebook for detailed steps here:
 ## 1. Distribution of Total Bike Rides by Season
 
 ![Distribution of Total Bike Rides by Season](Visualisation_images\season_1.png)
+
 ### Insight 
 
 - Summer: Accounts for the highest proportion of bike rides at 32.3%.
@@ -110,4 +111,3 @@ View my notebook for detailed steps here:
 - Spring: Comprises 24.4% of the rides, close to autumn.
 - Winter: Has the lowest share of bike rides at 17.9%.
 This indicates that bike rides are most popular in the summer and least popular in the winter.
-
