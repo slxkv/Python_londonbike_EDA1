@@ -1,4 +1,4 @@
-# City Bike Ride
+# City Bike Ride Share 
 ## EDA & Data Visualisation for bike sharing in London
 
 Bike-sharing systems are getting popular especially among big cities around the world. The system helps to promote eco-friendly mode of travel by lowering carbon emission, reduce traffic congestion, and encourage healthy lifestyles. 
@@ -105,7 +105,7 @@ You can view my notebook for a detailed breakdown of the steps here:
 
 ## 1. Distribution of Total Bike Rides by Season
 
-![Distribution of Total Bike Rides by Season](Visualisation_images\season_count.png)
+![Distribution of Total Bike Rides by Season](1_season_count.png)
 
 
 ### Insight 
@@ -118,7 +118,7 @@ This indicates that bike rides are most popular in the summer and least popular 
 
 ## 2. Impact of Weather on Total Bike Rides
 
-![Total Bike Count by Weather Condition](Visualisation_images\weather_count.png)
+![Total Bike Count by Weather Condition](2_weather_count.png)
 
 ### Insight 
 
@@ -131,7 +131,7 @@ This indicates that bike rides are most popular in the summer and least popular 
 
 ## 3. Correlation of Environmental Factors with Bike Share Usage
 
-![Total Bike Count by Weather Condition](Visualisation_images\corr_count.png)
+![Total Bike Count by Weather Condition](3_corr_count.png)
 
 ### Insight 
 
@@ -168,7 +168,7 @@ Result shows that:
 - The highest bike ride count was 72504 on 2015-07-09.
 ##
 
-![Total Bike Count by Weather Condition](Visualisation_images\total_bikeshare.png)
+![Total Bike Count by Over Time](4_total_bikeshare.png)
 
 ### Insight 
 
@@ -178,7 +178,7 @@ Result shows that:
 
 ## 5. Hourly Bike Ride Patterns: When Do Londoners Ride the Most?
 
-![Total Bike Count by Weather Condition](Visualisation_images\hour_count.png)
+![Total Bike Count by Weather Condition](5_hour_count.png)
 
 ### Insight 
 
